@@ -51,6 +51,7 @@ CSS  Resources
 
 ### CSS3
 
+- [Thinking Ahead: CSS Scroll Snap Points](http://blog.teamtreehouse.com/css-scroll-snap-points) by [@Guil Hernandez](http://blog.teamtreehouse.com/author/guillermohernandez)
 - [Quantity Ordering With CSS](http://www.smashingmagazine.com/2015/07/14/quantity-ordering-with-css/) by [@Drew Minns](http://www.smashingmagazine.com/author/drewminns/)
 - [Using the Web Speech API to simulate CSS Speech support](http://tink.uk/using-the-web-speech-api-to-simulate-css-speech-support/) by [@tink](https://twitter.com/LeonieWatson)
 - [Fixing Typography Inside of 2-D CSS Transforms](http://www.useragentman.com/blog/2014/05/04/fixing-typography-inside-of-2-d-css-transforms/) by [@Ramajero Argonauta](http://ksesocss.blogspot.com/)
