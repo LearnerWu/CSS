@@ -7,7 +7,7 @@ CSS  Resources
 - [What No One Told You About Z-Index](http://philipwalton.com/articles/what-no-one-told-you-about-z-index/)  by [@Philip Walton](http://philipwalton.com/)——[译文](http://www.w3cplus.com/css/what-no-one-told-you-about-z-index.html) By@[晓楷](http://helkyle.com)
 - [Sizing (Web) components](https://medium.com/@simurai/sizing-web-components-8f433689736f) by [@simurai](https://medium.com/@simurai)
 - [12 Little-Known CSS Facts (The Sequel)](http://www.sitepoint.com/12-little-known-css-facts-the-sequel/) by [@Louis Lazaris](http://www.sitepoint.com/author/louis-lazaris1/)
-- [What a CSS Code Review Might Look Like](https://css-tricks.com/what-a-css-code-review-might-look-like/) by [@Geoff Graham ](https://css-tricks.com/author/geoffreygrahamgmail-com/)(已认领By@小红)
+- [What a CSS Code Review Might Look Like](https://css-tricks.com/what-a-css-code-review-might-look-like/) by [@Geoff Graham ](https://css-tricks.com/author/geoffreygrahamgmail-com/)——[译文](http://www.w3cplus.com/css/what-a-css-code-review-might-look-like.html) By[@小红](http://weibo.com/u/3788884187)
 - [Understanding Block Formatting Contexts in CSS](http://www.sitepoint.com/understanding-block-formatting-contexts-in-css/) by [@](http://www.sitepoint.com/author/rkumar/)(已认领By@一半一半)
 - [Native CSS Scroll Snap Points](http://blog.gospodarets.com/css-scroll-snap/) by [@Sergey Gospodarets](http://blog.gospodarets.com/)
 - [Creating Realistic Text with CSS](http://blogs.adobe.com/dreamweaver/2015/06/creating-realistic-text-with-css.html) by [@Lucas Bebber](http://blogs.adobe.com/dreamweaver/author/lucas-bebber)
