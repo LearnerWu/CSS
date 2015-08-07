@@ -3,6 +3,7 @@ CSS  Resources
 
 ### Basics
 
+- [css-modules: Why this is the most significant improvement to CSS in years](http://x-team.com/2015/08/css-modules-a-new-way-to-css/) by [@joshwnj](https://twitter.com/joshwnj)
 - [Comprehensive Guide: When to Use Em vs. Rem](http://webdesign.tutsplus.com/tutorials/comprehensive-guide-when-to-use-em-vs-rem--cms-23984) by [@Kezz Bracey](http://tutsplus.com/authors/kezz-bracey)——[译文](http://www.w3cplus.com/css/when-to-use-em-vs-rem.html) By@[晓楷](http://helkyle.com)
 - [What No One Told You About Z-Index](http://philipwalton.com/articles/what-no-one-told-you-about-z-index/)  by [@Philip Walton](http://philipwalton.com/)——[译文](http://www.w3cplus.com/css/what-no-one-told-you-about-z-index.html) By@[晓楷](http://helkyle.com)
 - [Sizing (Web) components](https://medium.com/@simurai/sizing-web-components-8f433689736f) by [@simurai](https://medium.com/@simurai)
@@ -117,6 +118,7 @@ CSS  Resources
 
 ### BEM
 
+- [BEMIT: Taking the BEM Naming Convention a Step Further](http://csswizardry.com/2015/08/bemit-taking-the-bem-naming-convention-a-step-further/) by [@award-winning](https://thenetawards.com/previous-winners/)
 - [Working with BEM at Scale — Advice From Top Developers](http://www.sitepoint.com/working-bem-scale-advice-top-developers/) by [@Patrick Catanzariti](http://www.sitepoint.com/author/pcatanzariti/)
 - [Block, Element, Modifying Your JavaScript Components](https://medium.com/seek-ui-engineering/block-element-modifying-your-javascript-components-d7f99fcab52b) by [@Mark Dalgleish](https://medium.com/@markdalgleish)
 
