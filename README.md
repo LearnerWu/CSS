@@ -3,6 +3,8 @@ CSS  Resources
 
 ### Basics
 
+- [Create Text Filling with Water Effect](https://blogs.adobe.com/dreamweaver/2015/08/create-a-text-filling-with-water-effect.html) by [@Lucas Bebber](https://blogs.adobe.com/dreamweaver/author/lucas-bebber)
+- [Understanding Critical CSS](http://www.smashingmagazine.com/2015/08/understanding-critical-css/) by [@Dean Hume](http://www.smashingmagazine.com/author/dean-hume/)
 - [THE ACCESSIBILITY CHEATSHEET](http://bitsofco.de/2015/the-accessibility-cheatsheet/) by [@ireaderinokun](https://twitter.com/ireaderinokun)
 - [css-modules: Why this is the most significant improvement to CSS in years](http://x-team.com/2015/08/css-modules-a-new-way-to-css/) by [@joshwnj](https://twitter.com/joshwnj)
 - [Comprehensive Guide: When to Use Em vs. Rem](http://webdesign.tutsplus.com/tutorials/comprehensive-guide-when-to-use-em-vs-rem--cms-23984) by [@Kezz Bracey](http://tutsplus.com/authors/kezz-bracey)——[译文](http://www.w3cplus.com/css/when-to-use-em-vs-rem.html) By@[晓楷](http://helkyle.com)
