@@ -56,7 +56,7 @@ CSS  Resources
 
 ### CSS3
 
-- [Debugging CSS Keyframe Animations](https://css-tricks.com/debugging-css-keyframe-animations/) by [@Sarah Drasner](https://css-tricks.com/author/sdrasner/)
+- [Debugging CSS Keyframe Animations](https://css-tricks.com/debugging-css-keyframe-animations/) by [@Sarah Drasner](https://css-tricks.com/author/sdrasner/)——[译文](http://www.w3cplus.com/css3/debugging-css-keyframe-animations.html) by [w3ctech](https://css-tricks.com/debugging-css-keyframe-animations/)
 - [Thinking Ahead: CSS Scroll Snap Points](http://blog.teamtreehouse.com/css-scroll-snap-points) by [@Guil Hernandez](http://blog.teamtreehouse.com/author/guillermohernandez)
 - [Quantity Ordering With CSS](http://www.smashingmagazine.com/2015/07/14/quantity-ordering-with-css/) by [@Drew Minns](http://www.smashingmagazine.com/author/drewminns/)
 - [Using the Web Speech API to simulate CSS Speech support](http://tink.uk/using-the-web-speech-api-to-simulate-css-speech-support/) by [@tink](https://twitter.com/LeonieWatson)
