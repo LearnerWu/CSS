@@ -3,6 +3,7 @@ CSS  Resources
 
 ### Basics
 
+- [Building A Circular Navigation with CSS Clip Paths](https://css-tricks.com/building-a-circular-navigation-with-css-clip-paths/) by [@ Sara Soueidan](http://sarasoueidan.com/)
 - [Create Text Filling with Water Effect](https://blogs.adobe.com/dreamweaver/2015/08/create-a-text-filling-with-water-effect.html) by [@Lucas Bebber](https://blogs.adobe.com/dreamweaver/author/lucas-bebber)
 - [Understanding Critical CSS](http://www.smashingmagazine.com/2015/08/understanding-critical-css/) by [@Dean Hume](http://www.smashingmagazine.com/author/dean-hume/)
 - [THE ACCESSIBILITY CHEATSHEET](http://bitsofco.de/2015/the-accessibility-cheatsheet/) by [@ireaderinokun](https://twitter.com/ireaderinokun)
