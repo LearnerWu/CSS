@@ -3,6 +3,9 @@ CSS  Resources
 
 ### Basics
 
+- [HOW FLOATING WORKS](http://bitsofco.de/2015/how-floating-works/) by [@Ire Aderinokun](http://www.ireaderinokun.com/) [小红认领]
+- [A Good User Interface](http://www.goodui.org/) [小红认领]
+- [Making Charts with CSS](https://css-tricks.com/making-charts-with-css/) by [@Robin Rendle](https://css-tricks.com/author/robinrendle/)
 - [Building A Circular Navigation with CSS Clip Paths](https://css-tricks.com/building-a-circular-navigation-with-css-clip-paths/) by [@ Sara Soueidan](http://sarasoueidan.com/)
 - [Create Text Filling with Water Effect](https://blogs.adobe.com/dreamweaver/2015/08/create-a-text-filling-with-water-effect.html) by [@Lucas Bebber](https://blogs.adobe.com/dreamweaver/author/lucas-bebber)
 - [Understanding Critical CSS](http://www.smashingmagazine.com/2015/08/understanding-critical-css/) by [@Dean Hume](http://www.smashingmagazine.com/author/dean-hume/)
@@ -108,7 +111,8 @@ CSS  Resources
 
 ### Flexbox
 
-- [nderstanding CSS3 Flexbox for Responsive Design](http://marketblog.envato.com/learn-something-new/css3-flexbox/) by [@Jake Rocheleau](http://marketblog.envato.com/author/jake-rocheleau/)
+- [Laying Out A Flexible Future For Web Design With Flexbox](http://www.smashingmagazine.com/2015/08/flexible-future-for-web-design-with-flexbox/) by [@Ben Gremillion](http://www.smashingmagazine.com/author/ben-gremillion/)
+- [understanding CSS3 Flexbox for Responsive Design](http://marketblog.envato.com/learn-something-new/css3-flexbox/) by [@Jake Rocheleau](http://marketblog.envato.com/author/jake-rocheleau/)
 - [Migrating to Flexbox by Cutting the Mustard](http://www.sitepoint.com/migrating-flexbox-cutting-mustard/) by [@Bashkim Isai](http://www.sitepoint.com/author/bashaus/)
 - [A Visual Guide to CSS3 Flexbox Properties](https://scotch.io/tutorials/a-visual-guide-to-css3-flexbox-properties) by [@ Dimitar Stojanov](https://scotch.io/author/dimitar)——[译文](http://www.w3cplus.com/css3/a-visual-guide-to-css3-flexbox-properties.html) by [@大漠](http://www.w3cplus.com)
 - [Harnessing Flexbox For Today’s Web Apps](http://www.smashingmagazine.com/2015/03/02/harnessing-flexbox-for-todays-web-apps/) by [@Karen Menezes](http://www.smashingmagazine.com/author/karenmenezes/)——[译文](http://www.w3cplus.com/css3/harnessing-flexbox-for-todays-web-apps.html) by [@婼籽](http://weibo.com/3315650703/)
