@@ -3,6 +3,7 @@ CSS  Resources
 
 ### Basics
 
+- [Better Image Borders with Blend Modes](http://thenewcode.com/1065/Better-Image-Borders-with-Blend-Modes)
 - [HOW FLOATING WORKS](http://bitsofco.de/2015/how-floating-works/) by [@Ire Aderinokun](http://www.ireaderinokun.com/) [小红认领]
 - [A Good User Interface](http://www.goodui.org/) [小红认领]
 - [Making Charts with CSS](https://css-tricks.com/making-charts-with-css/) by [@Robin Rendle](https://css-tricks.com/author/robinrendle/)
@@ -122,6 +123,7 @@ CSS  Resources
 
 ### Tools
 
+- [DevTools Tips For Sublime Text Users](https://medium.com/@addyosmani/devtools-tips-for-sublime-text-users-cdd559ee80f8) by [@Addy Osmani](https://medium.com/@addyosmani)
 - [DevTools Timeline: Now Providing the Full Story](http://updates.html5rocks.com/2015/04/devtools-timeline-improvements) by [@Heather Mahan](http://www.html5rocks.com/profiles/#heathermahan)
 
 ### BEM
