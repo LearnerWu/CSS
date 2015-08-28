@@ -3,6 +3,7 @@ CSS  Resources
 
 ### Basics
 
+- [The future of layout with CSS: Grid Layouts](https://medium.com/@patrickbrosset/css-grid-layout-6c9cba6e8a5a) by [@Patrick Brosset](https://medium.com/@patrickbrosset)
 - [Better Image Borders with Blend Modes](http://thenewcode.com/1065/Better-Image-Borders-with-Blend-Modes)
 - [HOW FLOATING WORKS](http://bitsofco.de/2015/how-floating-works/) by [@Ire Aderinokun](http://www.ireaderinokun.com/) [小红认领]
 - [A Good User Interface](http://www.goodui.org/) [小红认领]
