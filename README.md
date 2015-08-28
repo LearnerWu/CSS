@@ -5,7 +5,7 @@ CSS  Resources
 
 - [The future of layout with CSS: Grid Layouts](https://medium.com/@patrickbrosset/css-grid-layout-6c9cba6e8a5a) by [@Patrick Brosset](https://medium.com/@patrickbrosset)
 - [Better Image Borders with Blend Modes](http://thenewcode.com/1065/Better-Image-Borders-with-Blend-Modes)
-- [HOW FLOATING WORKS](http://bitsofco.de/2015/how-floating-works/) by [@Ire Aderinokun](http://www.ireaderinokun.com/) [小红认领]
+- [HOW FLOATING WORKS](http://bitsofco.de/2015/how-floating-works/) by [@Ire Aderinokun](http://www.ireaderinokun.com/)——[译文](http://www.w3cplus.com/css/how-floating-works.html) By[@小红](http://weibo.com/u/3788884187)
 - [A Good User Interface](http://www.goodui.org/) [小红认领]
 - [Making Charts with CSS](https://css-tricks.com/making-charts-with-css/) by [@Robin Rendle](https://css-tricks.com/author/robinrendle/)
 - [Building A Circular Navigation with CSS Clip Paths](https://css-tricks.com/building-a-circular-navigation-with-css-clip-paths/) by [@ Sara Soueidan](http://sarasoueidan.com/)
