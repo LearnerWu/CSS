@@ -87,6 +87,9 @@ CSS  Resources
 
 ### Animation
 
+- [Emoji Toggles!](https://css-tricks.com/emoji-toggles/) by [@Chris Coyier](https://css-tricks.com/author/chriscoyier/)
+- [The CSS Transitions Cheatsheet](http://www.kirupa.com/html5/css_transitions_cheatsheet.htm) by [@kirupa](http://www.kirupa.com/me/index.htm)
+- [Web Animations API](http://danielcwilson.com/tags/web-animations-api/)
 - [Perfecting a CSS 3D animation](https://subvisual.co/blog/posts/62-perfecting-a-css-3d-animation) by @Miguel Palhas
 - [Tenue CSS Text Effect](http://themes-pixeden.com/playground/text/tenue/) by [@Pixeden](http://pixeden.com/)
 - [Performant CSS Animations: Netflix Case Study](http://eng.wealthfront.com/2015/06/implementing-netflix-redesign.html) by [@Eli White](http://www.blogger.com/profile/11365234386587404375)
