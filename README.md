@@ -3,6 +3,7 @@ CSS  Resources
 
 ### Basics
 
+- [Less CSS mess](http://thomasbyttebier.be/blog/less-css-mess) by [@bytte](https://twitter.com/bytte)
 - [The future of layout with CSS: Grid Layouts](https://medium.com/@patrickbrosset/css-grid-layout-6c9cba6e8a5a) by [@Patrick Brosset](https://medium.com/@patrickbrosset)
 - [Better Image Borders with Blend Modes](http://thenewcode.com/1065/Better-Image-Borders-with-Blend-Modes)
 - [HOW FLOATING WORKS](http://bitsofco.de/2015/how-floating-works/) by [@Ire Aderinokun](http://www.ireaderinokun.com/)——[译文](http://www.w3cplus.com/css/how-floating-works.html) By[@小红](http://weibo.com/u/3788884187)
@@ -87,6 +88,7 @@ CSS  Resources
 
 ### Animation
 
+- [How to Keep Web Animations From Slowing You Down](https://www.codeschool.com/blog/2015/09/11/how-to-keep-web-animations-from-slowing-you-down/) by [@Jordan Wade](https://www.codeschool.com/blog/author/jordanwade/)
 - [Emoji Toggles!](https://css-tricks.com/emoji-toggles/) by [@Chris Coyier](https://css-tricks.com/author/chriscoyier/)
 - [The CSS Transitions Cheatsheet](http://www.kirupa.com/html5/css_transitions_cheatsheet.htm) by [@kirupa](http://www.kirupa.com/me/index.htm)
 - [Web Animations API](http://danielcwilson.com/tags/web-animations-api/)
