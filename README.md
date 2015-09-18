@@ -88,6 +88,7 @@ CSS  Resources
 
 ### Animation
 
+- [Syncing CSS Animations with HTML5 Audio](http://www.sitepoint.com/syncing-css-animations-with-html5-audio/) by [@Mihaela Jurkovic](http://www.sitepoint.com/author/mjurkovic/)
 - [How to Keep Web Animations From Slowing You Down](https://www.codeschool.com/blog/2015/09/11/how-to-keep-web-animations-from-slowing-you-down/) by [@Jordan Wade](https://www.codeschool.com/blog/author/jordanwade/)
 - [Emoji Toggles!](https://css-tricks.com/emoji-toggles/) by [@Chris Coyier](https://css-tricks.com/author/chriscoyier/)
 - [The CSS Transitions Cheatsheet](http://www.kirupa.com/html5/css_transitions_cheatsheet.htm) by [@kirupa](http://www.kirupa.com/me/index.htm)
