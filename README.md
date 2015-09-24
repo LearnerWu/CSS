@@ -121,6 +121,7 @@ CSS  Resources
 
 ### Flexbox
 
+- [MODERN WEB LAYOUT WITH FLEXBOX](http://www.webdesignerdepot.com/2015/09/modern-web-layout-with-flexbox/) by [@PADDI MACDONNELL](http://www.webdesignerdepot.com/author/Paddi-MacDonnell)
 - [Laying Out A Flexible Future For Web Design With Flexbox](http://www.smashingmagazine.com/2015/08/flexible-future-for-web-design-with-flexbox/) by [@Ben Gremillion](http://www.smashingmagazine.com/author/ben-gremillion/)
 - [understanding CSS3 Flexbox for Responsive Design](http://marketblog.envato.com/learn-something-new/css3-flexbox/) by [@Jake Rocheleau](http://marketblog.envato.com/author/jake-rocheleau/)
 - [Migrating to Flexbox by Cutting the Mustard](http://www.sitepoint.com/migrating-flexbox-cutting-mustard/) by [@Bashkim Isai](http://www.sitepoint.com/author/bashaus/)
