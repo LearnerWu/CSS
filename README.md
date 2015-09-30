@@ -4,7 +4,7 @@ CSS  Resources
 ### Basics
 
 - [Dealing with long words in CSS](https://justmarkup.com/log/2015/07/31/dealing-with-long-words-in-css/) by [@justmarkup](http://www.twitter.com/justmarkup)
-- [Back to the :roots](http://simurai.com/blog/2015/09/09/back-to-the-roots/) by [@Samurai](http://twitter.com/simurai)
+- [Back to the :roots](http://simurai.com/blog/2015/09/09/back-to-the-roots/) by [@Samurai](http://twitter.com/simurai) ——[译文](http://www.w3cplus.com/css/back-to-the-roots.html) by [@大漠](http://www.w3cplus.com)
 - [Less CSS mess](http://thomasbyttebier.be/blog/less-css-mess) by [@bytte](https://twitter.com/bytte)
 - [The future of layout with CSS: Grid Layouts](https://medium.com/@patrickbrosset/css-grid-layout-6c9cba6e8a5a) by [@Patrick Brosset](https://medium.com/@patrickbrosset)
 - [Better Image Borders with Blend Modes](http://thenewcode.com/1065/Better-Image-Borders-with-Blend-Modes)
