@@ -98,6 +98,8 @@ CSS  Resources
 
 ### Animation
 
+- [Animation Advice from a CSS Master](http://www.sitepoint.com/animation-advice-from-a-css-master/) by [@Angela Molina](http://www.sitepoint.com/author/amolina/) [@Tiffany Brown](http://www.sitepoint.com/animation-advice-from-a-css-master/)
+- [Animation for Beginners: How to Animate a Bouncing Ball!](http://design.tutsplus.com/tutorials/animation-for-beginners-how-to-animate-a-bouncing-ball--cms-24787) by [@Pilar Newton](http://tutsplus.com/authors/pilar-newton)
 - [Syncing CSS Animations with HTML5 Audio](http://www.sitepoint.com/syncing-css-animations-with-html5-audio/) by [@Mihaela Jurkovic](http://www.sitepoint.com/author/mjurkovic/)
 - [How to Keep Web Animations From Slowing You Down](https://www.codeschool.com/blog/2015/09/11/how-to-keep-web-animations-from-slowing-you-down/) by [@Jordan Wade](https://www.codeschool.com/blog/author/jordanwade/)
 - [Emoji Toggles!](https://css-tricks.com/emoji-toggles/) by [@Chris Coyier](https://css-tricks.com/author/chriscoyier/)
