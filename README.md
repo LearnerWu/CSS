@@ -3,6 +3,7 @@ CSS  Resources
 
 ### Basics
 
+- [Reverse Text Color Based on Background Color Automatically in CSS](https://css-tricks.com/reverse-text-color-mix-blend-mode/) by [@ROBIN RENDLE](https://css-tricks.com/author/robinrendle/)
 - [**CSS Image Effects** #1: Vintage Washout](http://una.im/vintage-washout/#💁) by [@una](http://twitter.com/una)
 - [Dealing with long words in CSS](https://justmarkup.com/log/2015/07/31/dealing-with-long-words-in-css/) by [@justmarkup](http://www.twitter.com/justmarkup)
 - [Back to the :roots](http://simurai.com/blog/2015/09/09/back-to-the-roots/) by [@Samurai](http://twitter.com/simurai) ——[译文](http://www.w3cplus.com/css/back-to-the-roots.html) by [@大漠](http://www.w3cplus.com)
@@ -98,6 +99,7 @@ CSS  Resources
 
 ### Animation
 
+- [Animate Elements on a Path with CSS](http://thenewcode.com/38/Animate-Elements-on-a-Path-with-CSS) by [@Dudley Storey](https://twitter.com/dudleystorey)
 - [**Web Developer Reading List: CSS Transforms and Animation**](http://thenewcode.com/806/Web-Developer-Reading-List-CSS-Transforms-and-Animation)
 - [Animation Advice from a CSS Master](http://www.sitepoint.com/animation-advice-from-a-css-master/) by [@Angela Molina](http://www.sitepoint.com/author/amolina/) [@Tiffany Brown](http://www.sitepoint.com/animation-advice-from-a-css-master/)
 - [Animation for Beginners: How to Animate a Bouncing Ball!](http://design.tutsplus.com/tutorials/animation-for-beginners-how-to-animate-a-bouncing-ball--cms-24787) by [@Pilar Newton](http://tutsplus.com/authors/pilar-newton)
