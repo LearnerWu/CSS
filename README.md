@@ -98,6 +98,7 @@ CSS  Resources
 
 ### Animation
 
+- [**Web Developer Reading List: CSS Transforms and Animation**](http://thenewcode.com/806/Web-Developer-Reading-List-CSS-Transforms-and-Animation)
 - [Animation Advice from a CSS Master](http://www.sitepoint.com/animation-advice-from-a-css-master/) by [@Angela Molina](http://www.sitepoint.com/author/amolina/) [@Tiffany Brown](http://www.sitepoint.com/animation-advice-from-a-css-master/)
 - [Animation for Beginners: How to Animate a Bouncing Ball!](http://design.tutsplus.com/tutorials/animation-for-beginners-how-to-animate-a-bouncing-ball--cms-24787) by [@Pilar Newton](http://tutsplus.com/authors/pilar-newton)
 - [Syncing CSS Animations with HTML5 Audio](http://www.sitepoint.com/syncing-css-animations-with-html5-audio/) by [@Mihaela Jurkovic](http://www.sitepoint.com/author/mjurkovic/)
