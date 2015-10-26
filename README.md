@@ -3,7 +3,7 @@ CSS  Resources
 
 ### Basics
 
-- [Reverse Text Color Based on Background Color Automatically in CSS](https://css-tricks.com/reverse-text-color-mix-blend-mode/) by [@ROBIN RENDLE](https://css-tricks.com/author/robinrendle/)
+- [Reverse Text Color Based on Background Color Automatically in CSS](https://css-tricks.com/reverse-text-color-mix-blend-mode/) by [@ROBIN RENDLE](https://css-tricks.com/author/robinrendle/) 
 - [**CSS Image Effects** #1: Vintage Washout](http://una.im/vintage-washout/#💁) by [@una](http://twitter.com/una)
 - [Dealing with long words in CSS](https://justmarkup.com/log/2015/07/31/dealing-with-long-words-in-css/) by [@justmarkup](http://www.twitter.com/justmarkup)
 - [Back to the :roots](http://simurai.com/blog/2015/09/09/back-to-the-roots/) by [@Samurai](http://twitter.com/simurai) ——[译文](http://www.w3cplus.com/css/back-to-the-roots.html) by [@大漠](http://www.w3cplus.com)
@@ -107,7 +107,7 @@ CSS  Resources
 - [How to Keep Web Animations From Slowing You Down](https://www.codeschool.com/blog/2015/09/11/how-to-keep-web-animations-from-slowing-you-down/) by [@Jordan Wade](https://www.codeschool.com/blog/author/jordanwade/)
 - [Emoji Toggles!](https://css-tricks.com/emoji-toggles/) by [@Chris Coyier](https://css-tricks.com/author/chriscoyier/)
 - [The CSS Transitions Cheatsheet](http://www.kirupa.com/html5/css_transitions_cheatsheet.htm) by [@kirupa](http://www.kirupa.com/me/index.htm)
-- [Web Animations API](http://danielcwilson.com/tags/web-animations-api/)
+- [Web Animations API](http://danielcwilson.com/tags/web-animations-api/)[10.26认领by 彦子]
 - [Perfecting a CSS 3D animation](https://subvisual.co/blog/posts/62-perfecting-a-css-3d-animation) by @Miguel Palhas
 - [Tenue CSS Text Effect](http://themes-pixeden.com/playground/text/tenue/) by [@Pixeden](http://pixeden.com/)
 - [Performant CSS Animations: Netflix Case Study](http://eng.wealthfront.com/2015/06/implementing-netflix-redesign.html) by [@Eli White](http://www.blogger.com/profile/11365234386587404375)
