@@ -3,6 +3,9 @@ CSS  Resources
 
 ### Basics
 
+- [5 Things You Might Not Know About the CSS Positioning Types](https://scotch.io/bar-talk/5-things-you-might-not-know-about-the-css-positioning-types) by [@George Martsoukos](https://scotch.io/author/george-m)
+- [What Is The Golden Ratio? What You Need to Know and How To Use It](https://designschool.canva.com/blog/what-is-the-golden-ratio/) by [@Rebecca Gross](https://designschool.canva.com/blog/author/rebecca/)
+- [HOW Z-INDEX WORKS](http://bitsofco.de/2015/how-z-index-works/) by [@ireaderinokun](http://www.twitter.com/ireaderinokun)
 - [Reverse Text Color Based on Background Color Automatically in CSS](https://css-tricks.com/reverse-text-color-mix-blend-mode/) by [@ROBIN RENDLE](https://css-tricks.com/author/robinrendle/) 
 - [**CSS Image Effects** #1: Vintage Washout](http://una.im/vintage-washout/#💁) by [@una](http://twitter.com/una)
 - [Dealing with long words in CSS](https://justmarkup.com/log/2015/07/31/dealing-with-long-words-in-css/) by [@justmarkup](http://www.twitter.com/justmarkup)
