@@ -102,6 +102,7 @@ CSS  Resources
 
 ### Animation
 
+- [**The Beginner’s Guide to TimelineMax**](http://webdesign.tutsplus.com/series/the-beginners-guide-to-timelinemax--cms-765) by [@Dennis Gaebel](http://tutsplus.com/authors/dennis-gaebel)
 - [Animate Elements on a Path with CSS](http://thenewcode.com/38/Animate-Elements-on-a-Path-with-CSS) by [@Dudley Storey](https://twitter.com/dudleystorey)
 - [**Web Developer Reading List: CSS Transforms and Animation**](http://thenewcode.com/806/Web-Developer-Reading-List-CSS-Transforms-and-Animation)
 - [Animation Advice from a CSS Master](http://www.sitepoint.com/animation-advice-from-a-css-master/) by [@Angela Molina](http://www.sitepoint.com/author/amolina/) [@Tiffany Brown](http://www.sitepoint.com/animation-advice-from-a-css-master/)
