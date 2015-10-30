@@ -65,6 +65,7 @@ CSS  Resources
 ### Grid
 
 - [Understanding CSS Grid Systems from the Ground Up](http://www.sitepoint.com/understanding-css-grid-systems/) by [@Ryan Morr](http://www.sitepoint.com/author/rmorr/)(已认领 by 白粥)
+- [A guide to creating grid systems that are built around your content](http://www.iamtomnewton.com/blog/grid-guide) by [@iamtomnewton](https://twitter.com/iamtomnewton)
 
 
 ### CSS3
@@ -138,6 +139,7 @@ CSS  Resources
 
 ### Flexbox
 
+- [Applying Flexbox to the Video Player](https://ind.ie/labs/blog/video-player-flexbox/) by [@ind.ie](https://ind.ie/about)
 - [MODERN WEB LAYOUT WITH FLEXBOX](http://www.webdesignerdepot.com/2015/09/modern-web-layout-with-flexbox/) by [@PADDI MACDONNELL](http://www.webdesignerdepot.com/author/Paddi-MacDonnell)
 - [Laying Out A Flexible Future For Web Design With Flexbox](http://www.smashingmagazine.com/2015/08/flexible-future-for-web-design-with-flexbox/) by [@Ben Gremillion](http://www.smashingmagazine.com/author/ben-gremillion/)
 - [understanding CSS3 Flexbox for Responsive Design](http://marketblog.envato.com/learn-something-new/css3-flexbox/) by [@Jake Rocheleau](http://marketblog.envato.com/author/jake-rocheleau/)
