@@ -70,6 +70,7 @@ CSS  Resources
 
 ### CSS3
 
+- [Background Image Shapes](https://css-tricks.com/background-image-shapes/) by @Joe Markevicius
 - [Dig Deep Into CSS Linear Gradients](http://hugogiraudel.com/2013/02/04/css-gradients/#a-few-things-about-linear-gradients) by [@HugoGiraudel](http://twitter.com/HugoGiraudel)
 - [Debugging CSS Keyframe Animations](https://css-tricks.com/debugging-css-keyframe-animations/) by [@Sarah Drasner](https://css-tricks.com/author/sdrasner/)——[译文](http://www.w3cplus.com/css3/debugging-css-keyframe-animations.html) by [w3ctech](https://css-tricks.com/debugging-css-keyframe-animations/)
 - [Thinking Ahead: CSS Scroll Snap Points](http://blog.teamtreehouse.com/css-scroll-snap-points) by [@Guil Hernandez](http://blog.teamtreehouse.com/author/guillermohernandez)
