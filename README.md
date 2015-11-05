@@ -104,6 +104,7 @@ CSS  Resources
 
 ### Animation
 
+- [Animating the `content` Property](https://css-tricks.com/animating-the-content-property/) by [@ROBIN RENDLE](https://css-tricks.com/author/robinrendle/)
 - [**The Beginner’s Guide to TimelineMax**](http://webdesign.tutsplus.com/series/the-beginners-guide-to-timelinemax--cms-765) by [@Dennis Gaebel](http://tutsplus.com/authors/dennis-gaebel)
 - [Animate Elements on a Path with CSS](http://thenewcode.com/38/Animate-Elements-on-a-Path-with-CSS) by [@Dudley Storey](https://twitter.com/dudleystorey)
 - [**Web Developer Reading List: CSS Transforms and Animation**](http://thenewcode.com/806/Web-Developer-Reading-List-CSS-Transforms-and-Animation)
@@ -140,6 +141,7 @@ CSS  Resources
 
 ### Flexbox
 
+- [Flexbox For Interfaces All The Way: Tracks Case Study](http://www.smashingmagazine.com/2015/11/flexbox-interfaces-tracks-case-study/) by [@Dennis Gaebel Jr](http://www.smashingmagazine.com/author/dennisgaebeljr/)
 - [Applying Flexbox to the Video Player](https://ind.ie/labs/blog/video-player-flexbox/) by [@ind.ie](https://ind.ie/about)
 - [MODERN WEB LAYOUT WITH FLEXBOX](http://www.webdesignerdepot.com/2015/09/modern-web-layout-with-flexbox/) by [@PADDI MACDONNELL](http://www.webdesignerdepot.com/author/Paddi-MacDonnell)
 - [Laying Out A Flexible Future For Web Design With Flexbox](http://www.smashingmagazine.com/2015/08/flexible-future-for-web-design-with-flexbox/) by [@Ben Gremillion](http://www.smashingmagazine.com/author/ben-gremillion/)
