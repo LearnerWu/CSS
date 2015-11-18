@@ -92,7 +92,6 @@ CSS  Resources
 ### Typography
 
 - [The Complete Beginner’s Guide to Chinese Fonts](http://webdesign.tutsplus.com/articles/the-complete-beginners-guide-to-chinese-fonts--cms-23444) by [@Kendra Schaefer](http://tutsplus.com/authors/kendra-schaefer)
-- [How we use web fonts responsibly, or, avoiding a @font-face-palm](http://www.filamentgroup.com/lab/font-loading.html) by [@Zach](http://www.filamentgroup.com/about/#zach-leatherman)
 - [Chinese Standard Web Fonts: A Guide to CSS Font Family Declarations for Web Design in Simplified Chinese](http://www.kendraschaefer.com/2012/06/chinese-standard-web-fonts-the-ultimate-guide-to-css-font-family-declarations-for-web-design-in-simplified-chinese/)
 - [Faster Font Loading with Font Events](https://jonsuh.com/blog/font-loading-with-font-events/) By [@Jonathan Suh](https://jonsuh.com/blog/font-loading-with-font-events/)
 - [Font Loading Revisited with Font Events](https://www.filamentgroup.com/lab/font-events.html) by [@Scott](https://www.filamentgroup.com/about/#scott-jehl)
@@ -101,6 +100,7 @@ CSS  Resources
 - [How to Improve Page Performance with a Font Loader](http://www.sitepoint.com/improve-page-performance-font-loader/) by [@Craig Buckler](http://www.sitepoint.com/author/craig-buckler/)
 - [Loading Fonts](http://publishing-project.rivendellweb.net/loading-fonts/) by [@elrond25](https://twitter.com/elrond25)
 - [USING WEB FONTS THE BEST WAY (IN 2015)](https://helloanselm.com/2015/using-webfonts-in-2015/) by [@helloanselm](https://twitter.com/helloanselm)
+- [Loading Web Fonts with the Web Font Loader](https://css-tricks.com/loading-web-fonts-with-the-web-font-loader/) by [@ROBIN RENDLE](https://css-tricks.com/author/robinrendle/)
 
 ### Animation
 
