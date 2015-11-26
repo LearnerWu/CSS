@@ -3,6 +3,8 @@ CSS  Resources
 
 ### Basics
 
+- [10 Guidelines for Better Website Background Videos](http://www.sitepoint.com/10-guidelines-better-website-background-videos/) by [@Angus Russell](http://www.sitepoint.com/author/angusrussell/)
+- [Creating an Animated Menu Indicator with CSS Selectors](https://css-tricks.com/creating-an-animated-menu-indicator-with-css-selectors/) by [@James Nowland](https://twitter.com/jnowland)
 - [5 Things You Might Not Know About the CSS Positioning Types](https://scotch.io/bar-talk/5-things-you-might-not-know-about-the-css-positioning-types) by [@George Martsoukos](https://scotch.io/author/george-m)
 - [What Is The Golden Ratio? What You Need to Know and How To Use It](https://designschool.canva.com/blog/what-is-the-golden-ratio/) by [@Rebecca Gross](https://designschool.canva.com/blog/author/rebecca/)
 - [HOW Z-INDEX WORKS](http://bitsofco.de/2015/how-z-index-works/) by [@ireaderinokun](http://www.twitter.com/ireaderinokun)
