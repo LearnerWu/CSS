@@ -107,6 +107,7 @@ CSS  Resources
 
 ### Animation
 
+- [Animating Your Brand](https://24ways.org/2015/animating-your-brand/) by [@donovanh](https://twitter.com/donovanh)
 - [Animating the `content` Property](https://css-tricks.com/animating-the-content-property/) by [@ROBIN RENDLE](https://css-tricks.com/author/robinrendle/)
 - [**The Beginner’s Guide to TimelineMax**](http://webdesign.tutsplus.com/series/the-beginners-guide-to-timelinemax--cms-765) by [@Dennis Gaebel](http://tutsplus.com/authors/dennis-gaebel)
 - [Animate Elements on a Path with CSS](http://thenewcode.com/38/Animate-Elements-on-a-Path-with-CSS) by [@Dudley Storey](https://twitter.com/dudleystorey)
