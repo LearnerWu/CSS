@@ -3,6 +3,7 @@ CSS  Resources
 
 ### Basics
 
+- [Getting Started With CSS calc()](http://www.smashingmagazine.com/2015/12/getting-started-css-calc-techniques/) by [@Ana Tudor](http://www.smashingmagazine.com/author/anatudor/)
 - [10 Guidelines for Better Website Background Videos](http://www.sitepoint.com/10-guidelines-better-website-background-videos/) by [@Angus Russell](http://www.sitepoint.com/author/angusrussell/)
 - [Creating an Animated Menu Indicator with CSS Selectors](https://css-tricks.com/creating-an-animated-menu-indicator-with-css-selectors/) by [@James Nowland](https://twitter.com/jnowland)
 - [5 Things You Might Not Know About the CSS Positioning Types](https://scotch.io/bar-talk/5-things-you-might-not-know-about-the-css-positioning-types) by [@George Martsoukos](https://scotch.io/author/george-m)
@@ -107,6 +108,7 @@ CSS  Resources
 
 ### Animation
 
+- [Stereoscopic CSS](https://cssanimation.rocks/stereoscopic/) by [@cssanimation](https://twitter.com/cssanimation)
 - [Animating Your Brand](https://24ways.org/2015/animating-your-brand/) by [@donovanh](https://twitter.com/donovanh)
 - [Animating the `content` Property](https://css-tricks.com/animating-the-content-property/) by [@ROBIN RENDLE](https://css-tricks.com/author/robinrendle/)
 - [**The Beginner’s Guide to TimelineMax**](http://webdesign.tutsplus.com/series/the-beginners-guide-to-timelinemax--cms-765) by [@Dennis Gaebel](http://tutsplus.com/authors/dennis-gaebel)
