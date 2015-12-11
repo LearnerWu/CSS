@@ -170,6 +170,7 @@ CSS  Resources
 
 ### BEM
 
+- [Battling BEM – 5 common problems and how to avoid them](https://medium.com/fed-or-dead/battling-bem-5-common-problems-and-how-to-avoid-them-5bbd23dee319#.iy7v9fbmk) by [@davislurve](https://medium.com/@davislurve)
 - [BEMIT: Taking the BEM Naming Convention a Step Further](http://csswizardry.com/2015/08/bemit-taking-the-bem-naming-convention-a-step-further/) by [@award-winning](https://thenetawards.com/previous-winners/)
 - [Working with BEM at Scale — Advice From Top Developers](http://www.sitepoint.com/working-bem-scale-advice-top-developers/) by [@Patrick Catanzariti](http://www.sitepoint.com/author/pcatanzariti/)
 - [Block, Element, Modifying Your JavaScript Components](https://medium.com/seek-ui-engineering/block-element-modifying-your-javascript-components-d7f99fcab52b) by [@Mark Dalgleish](https://medium.com/@markdalgleish)
