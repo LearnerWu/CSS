@@ -151,6 +151,7 @@ CSS  Resources
 
 ### Flexbox
 
+- [Website Layout Tools Compared: Flexbox Vs. Susy](http://www.smashingmagazine.com/2015/12/website-layout-tools-compared-flexbox-vs-susy/) by [@Zell Liew](http://www.smashingmagazine.com/author/zellliew/)
 - [Flexbox For Interfaces All The Way: Tracks Case Study](http://www.smashingmagazine.com/2015/11/flexbox-interfaces-tracks-case-study/) by [@Dennis Gaebel Jr](http://www.smashingmagazine.com/author/dennisgaebeljr/)
 - [Applying Flexbox to the Video Player](https://ind.ie/labs/blog/video-player-flexbox/) by [@ind.ie](https://ind.ie/about)
 - [MODERN WEB LAYOUT WITH FLEXBOX](http://www.webdesignerdepot.com/2015/09/modern-web-layout-with-flexbox/) by [@PADDI MACDONNELL](http://www.webdesignerdepot.com/author/Paddi-MacDonnell)
