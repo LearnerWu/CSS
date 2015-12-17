@@ -19,7 +19,7 @@ CSS  Resources
 - [The future of layout with CSS: Grid Layouts](https://medium.com/@patrickbrosset/css-grid-layout-6c9cba6e8a5a) by [@Patrick Brosset](https://medium.com/@patrickbrosset)
 - [Better Image Borders with Blend Modes](http://thenewcode.com/1065/Better-Image-Borders-with-Blend-Modes)
 - [HOW FLOATING WORKS](http://bitsofco.de/2015/how-floating-works/) by [@Ire Aderinokun](http://www.ireaderinokun.com/)——[译文](http://www.w3cplus.com/css/how-floating-works.html) By[@小红](http://weibo.com/u/3788884187)
-- [A Good User Interface](http://www.goodui.org/) [小红认领]
+- [A Good User Interface](http://www.goodui.org/)
 - [Making Charts with CSS](https://css-tricks.com/making-charts-with-css/) by [@Robin Rendle](https://css-tricks.com/author/robinrendle/)
 - [Building A Circular Navigation with CSS Clip Paths](https://css-tricks.com/building-a-circular-navigation-with-css-clip-paths/) by [@ Sara Soueidan](http://sarasoueidan.com/)
 - [Create Text Filling with Water Effect](https://blogs.adobe.com/dreamweaver/2015/08/create-a-text-filling-with-water-effect.html) by [@Lucas Bebber](https://blogs.adobe.com/dreamweaver/author/lucas-bebber)
@@ -38,7 +38,7 @@ CSS  Resources
 - [A Look at Some CSS Methodologies](http://sixrevisions.com/css/css-methodologies/) by [@Kieran Potts](http://www.kieranpotts.com/)
 - [Accessible Footnotes with CSS](http://www.sitepoint.com/accessible-footnotes-css/) by [@Hugo Giraudel](http://www.sitepoint.com/author/hgiraudel/)
 - [Checkbox Trickery with CSS](http://codersblock.com/blog/checkbox-trickery-with-css/) by [@Will](https://twitter.com/lonekorean)
-- [CSS Layers](https://medium.com/@cathy_dutton/css-layers-afff4ae66649) by [@cathy dutton](https://medium.com/@cathy_dutton) ——[译文](http://www.w3cplus.com/css/css-layers.html) by [@一半一半已认领](https://github.com/heweixiao)
+- [CSS Layers](https://medium.com/@cathy_dutton/css-layers-afff4ae66649) by [@cathy dutton](https://medium.com/@cathy_dutton) ——[译文](http://www.w3cplus.com/css/css-layers.html)
 - [The Future Generation of CSS Selectors: Level 4](http://www.sitepoint.com/future-generation-css-selectors-level-4/) by [@Louis Lazaris](http://www.sitepoint.com/author/louis-lazaris1/)
 - [CSS-Only Raindrops on Window Effect](http://blogs.adobe.com/dreamweaver/2015/06/css-only-raindrops-on-window-effect.html) by [@Lucas Bebber](http://blogs.adobe.com/dreamweaver/author/lucas-bebber)
 - [Nesting Components](http://simurai.com/blog/2015/05/11/nesting-components/) by [@simurai](https://twitter.com/simurai)
@@ -60,8 +60,8 @@ CSS  Resources
 - [BEM 101](https://css-tricks.com/bem-101/) by [@Joe Richardson](http://lifes.gd/)
 - [A Primer To Background Positioning In CSS](http://blogs.adobe.com/dreamweaver/2015/03/a-primer-to-background-positioning-in-css.html#.VRfqFZOUfmx) by [@Sara Soueidan](http://blogs.adobe.com/dreamweaver/author/sara-soueidan)—— [译文](http://www.w3cplus.com/css/a-primer-to-background-positioning-in-css.html) by[@小八](https://github.com/tianzhipeng-git)
 - [Quantity Queries for CSS](http://alistapart.com/article/quantity-queries-for-css) by [@HEYDON PICKERING](http://alistapart.com/author/heydonworks)
-- [Why you should be excited about CSS shapes](http://www.chenhuijing.com/blog/why-you-should-be-excited-about-css-shapes/) by [@Hui Jing](https://github.com/huijing) [已认领 by[小八](https://github.com/tianzhipeng-git)]
-- [Cutting out the inner part of an element using clip-path](https://css-tricks.com/cutting-inner-part-element-using-clip-path/) by [@Ana Tudor](https://twitter.com/thebabydino)[已认领 by[小八](https://github.com/tianzhipeng-git)]
+- [Why you should be excited about CSS shapes](http://www.chenhuijing.com/blog/why-you-should-be-excited-about-css-shapes/) by [@Hui Jing](https://github.com/huijing)
+- [Cutting out the inner part of an element using clip-path](https://css-tricks.com/cutting-inner-part-element-using-clip-path/) by [@Ana Tudor](https://twitter.com/thebabydino)
 - [Fun with line-height!](https://css-tricks.com/fun-line-height/) by @Chris Coyier——[译文](http://www.w3cplus.com/css/fun-line-height.html) by [@婼籽](http://weibo.com/3315650703/)
 - [Automating Style Guide-Driven Development](http://www.smashingmagazine.com/2015/03/05/automating-style-guide-driven-development/) by [Varya Stepanova & Juuso Backman](http://www.smashingmagazine.com/author/varyastepanovajuusobackman/)
 - [Browser Input Events: Can We Do Better Than The Click?](http://www.smashingmagazine.com/2015/03/20/better-browser-input-events/) by [@Dustan Kasten](http://www.smashingmagazine.com/author/dustankasten/)——[译文](http://www.w3cplus.com/css3/better-browser-input-events.html) by[晓婼](http://weibo.com/3315650703/)
@@ -69,7 +69,8 @@ CSS  Resources
 
 ### Grid
 
-- [Understanding CSS Grid Systems from the Ground Up](http://www.sitepoint.com/understanding-css-grid-systems/) by [@Ryan Morr](http://www.sitepoint.com/author/rmorr/)(已认领 by 白粥)
+- [Grid, Flexbox, Box Alignment: Our New System for Layout](https://24ways.org/2015/grid-flexbox-box-alignment-our-new-system-for-layout) by [@Rachel Andrew](https://24ways.org/2015/grid-flexbox-box-alignment-our-new-system-for-layout#author)
+- [Understanding CSS Grid Systems from the Ground Up](http://www.sitepoint.com/understanding-css-grid-systems/) by [@Ryan Morr](http://www.sitepoint.com/author/rmorr/)
 - [A guide to creating grid systems that are built around your content](http://www.iamtomnewton.com/blog/grid-guide) by [@iamtomnewton](https://twitter.com/iamtomnewton)
 
 
@@ -129,7 +130,7 @@ CSS  Resources
 - [Perfecting a CSS 3D animation](https://subvisual.co/blog/posts/62-perfecting-a-css-3d-animation) by @Miguel Palhas
 - [Tenue CSS Text Effect](http://themes-pixeden.com/playground/text/tenue/) by [@Pixeden](http://pixeden.com/)
 - [Performant CSS Animations: Netflix Case Study](http://eng.wealthfront.com/2015/06/implementing-netflix-redesign.html) by [@Eli White](http://www.blogger.com/profile/11365234386587404375)
-- [CSS: Animation Using CSS Transforms](http://www.the-art-of-web.com/css/css-animation/)[已认领by@Minoz-那]
+- [CSS: Animation Using CSS Transforms](http://www.the-art-of-web.com/css/css-animation/)
 - [Practical Techniques On Designing Animation](http://www.smashingmagazine.com/2015/06/08/practical-techniques-on-designing-animation/) by [@Sarah Drasner](http://www.smashingmagazine.com/author/sarahdrasner/)
 - [Understanding CSS 3D-Transforms](http://pencilscoop.com/2014/04/understanding-css-3d-transforms) by @Joe Howard
 - [Animating Images With CSS ](http://pencilscoop.com/2014/04/animating-images-with-css-keyframes) by @Joe Howard
@@ -141,12 +142,12 @@ CSS  Resources
 - [WWDC 2015](https://cssanimation.rocks/wwdc15/) by [@cssanimation](https://twitter.com/cssanimation)——[译文](http://www.w3cplus.com/css3/wwdc15.html) by[晓楷](http://helkyle.com)
 - [Responsive Sprite Animations with ImageMagick and GreenSock](http://www.sitepoint.com/responsive-sprite-animations-imagemagick-greensock/) by [@Tom Bennet](http://www.sitepoint.com/author/tbennet/)
 - [Animating CSS-Only Hamburger Menu Icons](http://speckyboy.com/2015/04/02/animating-css-only-hamburger-menu-icons/) by [@Nick Salloum](http://speckyboy.com/author/nick-salloum/)
-- [In Pieces: A rare specimen of CSS-based animation](http://motionographer.com/2015/03/19/in-pieces-a-rare-specimen-of-css-based-animation/) by [@JUSTIN CONE](http://justincone.com/) [小健已认领]
+- [In Pieces: A rare specimen of CSS-based animation](http://motionographer.com/2015/03/19/in-pieces-a-rare-specimen-of-css-based-animation/) by [@JUSTIN CONE](http://justincone.com/)
 - [Adding Appeal to Your Animations on the Web](http://webdesign.tutsplus.com/tutorials/adding-appeal-to-your-animations-on-the-web--cms-23649) by [@Donovan Hutchinson](http://tutsplus.com/authors/donovan-hutchinson)--[译文](http://www.w3cplus.com/css3/adding-appeal-to-your-animations-on-the-web.html)by[晓楷](http://helkyle.com)
 - [The State Of Animation 2014](http://www.smashingmagazine.com/2014/11/18/the-state-of-animation-2014/) by [@Rachel Nabors](http://www.smashingmagazine.com/author/rachelnabors/)
 - [Animation Principles for the Web](https://cssanimation.rocks/principles/)
 - [Invisible animation](https://medium.com/@stevenfabre/invisible-animation-ffa27d0b77e5) by [@Steven Fabre](https://medium.com/@stevenfabre)
-- [Creating a Collection of CSS3 Animated Pre-loaders](http://webdesign.tutsplus.com/tutorials/creating-a-collection-of-css3-animated-pre-loaders--cms-21978) by [@Aaron Lumsden](http://tutsplus.com/authors/aaron-lumsden)[已认领]
+- [Creating a Collection of CSS3 Animated Pre-loaders](http://webdesign.tutsplus.com/tutorials/creating-a-collection-of-css3-animated-pre-loaders--cms-21978) by [@Aaron Lumsden](http://tutsplus.com/authors/aaron-lumsden)
 - [CSS Animation Trends in Web Design](http://marketblog.envato.com/trends/css-animation-trends-in-web-design/) by @Jake Rocheleau
 - [Animating List Items](https://cssanimation.rocks/list-items/)
 
