@@ -112,7 +112,7 @@ CSS  Resources
 
 ### Animation
 
-- [Using Multi-Step Animations and Transitions](https://css-tricks.com/using-multi-step-animations-transitions/) by [@GEOFF GRAHAM](https://css-tricks.com/author/geoffgraham/)
+- [Using Multi-Step Animations and Transitions](https://css-tricks.com/using-multi-step-animations-transitions/) by [@GEOFF GRAHAM](https://css-tricks.com/author/geoffgraham/) —— [译文](http://www.w3cplus.com/css3/using-multi-step-animations-transitions.html) by [@南北](http://weibo.com/sunchongsheng)
 - [Twitter’s Heart Animation in Full CSS](https://medium.com/@OxyDesign/twitter-s-heart-animation-in-full-css-b1c00ca5b774#.5d0s5w3ai) by [@Nicolas Escoffier](https://medium.com/@OxyDesign)
 - [Stereoscopic CSS](https://cssanimation.rocks/stereoscopic/) by [@cssanimation](https://twitter.com/cssanimation)
 - [Animating Your Brand](https://24ways.org/2015/animating-your-brand/) by [@donovanh](https://twitter.com/donovanh)
