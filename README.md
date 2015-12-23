@@ -3,6 +3,7 @@ CSS  Resources
 
 ### Basics
 
+- [Understanding the CSS Modules Methodology](http://www.sitepoint.com/understanding-css-modules-methodology/) by [@Hugo Giraudel](http://www.sitepoint.com/author/hgiraudel/)
 - [The “Blur Up” Technique for Loading Background Images](https://css-tricks.com/the-blur-up-technique-for-loading-background-images/) by [@Emil Björklund](http://thatemil.com/)
 - [Why I'm Excited About Native CSS Variables](http://philipwalton.com/articles/why-im-excited-about-native-css-variables/) by [@Philip Walton](http://philipwalton.com/)
 - [Getting Started With CSS calc()](http://www.smashingmagazine.com/2015/12/getting-started-css-calc-techniques/) by [@Ana Tudor](http://www.smashingmagazine.com/author/anatudor/)
@@ -76,6 +77,7 @@ CSS  Resources
 
 ### CSS3
 
+- [Blending Modes in CSS: Color Theory and Practical Application](http://webdesign.tutsplus.com/tutorials/blending-modes-in-css-color-theory-and-practical-application--cms-25201) by [@Jonathan Cutrell](http://tutsplus.com/authors/jonathan-cutrell)
 - [Intuitive Scrolling Interfaces with CSS Scroll Snap Points](http://www.sitepoint.com/intuitive-scrolling-interfaces-with-css-scroll-snap-points/) by [@Simon Codrington](http://www.sitepoint.com/author/scodrington/)
 - [How to animate "box-shadow" with silky smooth performance](http://tobiasahlin.com/blog/how-to-animate-box-shadow/) by [@Tobias](https://twitter.com/tobiasahlin)
 - [Background Image Shapes](https://css-tricks.com/background-image-shapes/) by @Joe Markevicius
