@@ -3,6 +3,7 @@ CSS  Resources
 
 ### Basics
 
+- [Should I use a video as a background?](https://css-tricks.com/should-i-use-a-video-as-a-background/) by [@CHRIS COYIER](https://css-tricks.com/author/chriscoyier/)
 - [Understanding the CSS Modules Methodology](http://www.sitepoint.com/understanding-css-modules-methodology/) by [@Hugo Giraudel](http://www.sitepoint.com/author/hgiraudel/)
 - [The “Blur Up” Technique for Loading Background Images](https://css-tricks.com/the-blur-up-technique-for-loading-background-images/) by [@Emil Björklund](http://thatemil.com/)
 - [Why I'm Excited About Native CSS Variables](http://philipwalton.com/articles/why-im-excited-about-native-css-variables/) by [@Philip Walton](http://philipwalton.com/)
@@ -113,6 +114,7 @@ CSS  Resources
 
 ### Flexbox
 
+- [`flex-grow` is weird. Or is it?](https://css-tricks.com/flex-grow-is-weird/) by [@Manuel Matuzovic](https://matuzo.at/)
 - [Website Layout Tools Compared: Flexbox Vs. Susy](http://www.smashingmagazine.com/2015/12/website-layout-tools-compared-flexbox-vs-susy/) by [@Zell Liew](http://www.smashingmagazine.com/author/zellliew/)
 - [Flexbox For Interfaces All The Way: Tracks Case Study](http://www.smashingmagazine.com/2015/11/flexbox-interfaces-tracks-case-study/) by [@Dennis Gaebel Jr](http://www.smashingmagazine.com/author/dennisgaebeljr/)
 - [Applying Flexbox to the Video Player](https://ind.ie/labs/blog/video-player-flexbox/) by [@ind.ie](https://ind.ie/about)
