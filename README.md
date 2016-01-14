@@ -3,6 +3,8 @@ CSS  Resources
 
 ## 2016年
 
+- [Everything I know about responsive web typography with CSS](http://www.zell-weekeat.com/responsive-typography) by [@Zell Liew](https://twitter.com/zellwk) [2016-01-13]
+- [Variables: The Backbone Of CSS Architecture](https://www.smashingmagazine.com/2016/01/variables-in-css-architecture/) by [@Karen Menezes](https://www.smashingmagazine.com/author/karenmenezes/) [2016-01-12]
 - [An Introduction to CSS’s @supports Rule (Feature Queries)](http://www.sitepoint.com/an-introduction-to-css-supports-rule-feature-queries/) by [@Maria Antonietta Perna](http://www.sitepoint.com/author/mperna/) [2016-01-06]
 - [Blending Modes Demystified](http://alistapart.com/article/blending-modes-demystified) by [@Justin McDowell](http://alistapart.com/author/ragdoll) [2016-01-05]
 
