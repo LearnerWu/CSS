@@ -3,7 +3,11 @@ CSS  Resources
 
 ## 2016年
 
+- [Leaner Responsive Images With Client Hints](https://www.smashingmagazine.com/2016/01/leaner-responsive-images-client-hints/) by [@Jon Arne Sæterås](https://www.smashingmagazine.com/author/jon-arne/) [2016-01-18]
+- [Designing A Product Page Layout with Flexbox](https://css-tricks.com/designing-a-product-page-layout-with-flexbox/) by [@CHRIS COYIER](https://css-tricks.com/author/chriscoyier/) [2016-01-15]
+- [22 Essential CSS Recipes](http://ipestov.com/22-essential-css-recipes/) by [@Ilya Pestov](http://ipestov.com/) [2016-01-14]
 - [Everything I know about responsive web typography with CSS](http://www.zell-weekeat.com/responsive-typography) by [@Zell Liew](https://twitter.com/zellwk) [2016-01-13]
+- [Influencing Web Layouts with Print Layouts](https://css-tricks.com/print-magazine-layouts-converted-to-web-layouts/) by [@CHRIS COYIER](https://css-tricks.com/author/chriscoyier/) [2016-01-13]
 - [Variables: The Backbone Of CSS Architecture](https://www.smashingmagazine.com/2016/01/variables-in-css-architecture/) by [@Karen Menezes](https://www.smashingmagazine.com/author/karenmenezes/) [2016-01-12]
 - [An Introduction to CSS’s @supports Rule (Feature Queries)](http://www.sitepoint.com/an-introduction-to-css-supports-rule-feature-queries/) by [@Maria Antonietta Perna](http://www.sitepoint.com/author/mperna/) [2016-01-06]
 - [Blending Modes Demystified](http://alistapart.com/article/blending-modes-demystified) by [@Justin McDowell](http://alistapart.com/author/ragdoll) [2016-01-05]
