@@ -3,6 +3,7 @@ CSS  Resources
 
 ## 2016年
 
+- [Deep Dive into Grid Layout Placement](http://blogs.igalia.com/mrego/2016/02/01/deep-dive-into-grid-layout-placement/) by [@Regocas](https://twitter.com/regocas) [2016-02-01]
 - [Leaner Responsive Images With Client Hints](https://www.smashingmagazine.com/2016/01/leaner-responsive-images-client-hints/) by [@Jon Arne Sæterås](https://www.smashingmagazine.com/author/jon-arne/) [2016-01-18]
 - [Designing A Product Page Layout with Flexbox](https://css-tricks.com/designing-a-product-page-layout-with-flexbox/) by [@CHRIS COYIER](https://css-tricks.com/author/chriscoyier/) [2016-01-15]
 - [22 Essential CSS Recipes](http://ipestov.com/22-essential-css-recipes/) by [@Ilya Pestov](http://ipestov.com/) [2016-01-14]
