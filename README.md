@@ -3,6 +3,7 @@ CSS  Resources
 
 ## 2016年
 
+- [An Introduction to the CSS Grid Layout Module](http://www.sitepoint.com/introduction-css-grid-layout-module/) by [@Ahmad Ajmi](http://www.sitepoint.com/author/aajmi/) [2016-03-02]
 - [Introducing CSS Scroll Snap Points](https://css-tricks.com/introducing-css-scroll-snap-points/) by [@SARAH DRASNER](https://css-tricks.com/author/sdrasner/) [2016-03-02]
 - [Deep Dive into Grid Layout Placement](http://blogs.igalia.com/mrego/2016/02/01/deep-dive-into-grid-layout-placement/) by [@Regocas](https://twitter.com/regocas) [2016-02-01]
 - [Leaner Responsive Images With Client Hints](https://www.smashingmagazine.com/2016/01/leaner-responsive-images-client-hints/) by [@Jon Arne Sæterås](https://www.smashingmagazine.com/author/jon-arne/) [2016-01-18]
