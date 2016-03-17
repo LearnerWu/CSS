@@ -96,7 +96,7 @@ CSS  Resources
 
 - [Blending Modes in CSS: Color Theory and Practical Application](http://webdesign.tutsplus.com/tutorials/blending-modes-in-css-color-theory-and-practical-application--cms-25201) by [@Jonathan Cutrell](http://tutsplus.com/authors/jonathan-cutrell)
 - [Intuitive Scrolling Interfaces with CSS Scroll Snap Points](http://www.sitepoint.com/intuitive-scrolling-interfaces-with-css-scroll-snap-points/) by [@Simon Codrington](http://www.sitepoint.com/author/scodrington/)
-- [How to animate "box-shadow" with silky smooth performance](http://tobiasahlin.com/blog/how-to-animate-box-shadow/) by [@Tobias](https://twitter.com/tobiasahlin)[已认领 by 静子 3-14]
+- [How to animate "box-shadow" with silky smooth performance](http://tobiasahlin.com/blog/how-to-animate-box-shadow/) by [@Tobias](https://twitter.com/tobiasahlin)——[译文](http://www.w3cplus.com/css3/how-to-animate-box-shadow.html) by [@静子](http://weibo.com/jizhongjing)
 - [Background Image Shapes](https://css-tricks.com/background-image-shapes/) by @Joe Markevicius
 - [Dig Deep Into CSS Linear Gradients](http://hugogiraudel.com/2013/02/04/css-gradients/#a-few-things-about-linear-gradients) by [@HugoGiraudel](http://twitter.com/HugoGiraudel)
 - [Thinking Ahead: CSS Scroll Snap Points](http://blog.teamtreehouse.com/css-scroll-snap-points) by [@Guil Hernandez](http://blog.teamtreehouse.com/author/guillermohernandez)
