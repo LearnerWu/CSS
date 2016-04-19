@@ -129,6 +129,7 @@ CSS  Resources
 - [Loading Fonts](http://publishing-project.rivendellweb.net/loading-fonts/) by [@elrond25](https://twitter.com/elrond25)
 - [USING WEB FONTS THE BEST WAY (IN 2015)](https://helloanselm.com/2015/using-webfonts-in-2015/) by [@helloanselm](https://twitter.com/helloanselm)
 - [Loading Web Fonts with the Web Font Loader](https://css-tricks.com/loading-web-fonts-with-the-web-font-loader/) by [@ROBIN RENDLE](https://css-tricks.com/author/robinrendle/)
+- [Web Font Loading Patterns](https://www.bramstein.com/writing/web-font-loading-patterns.html)
 
 ### Flexbox
 
